@@ -1,0 +1,19 @@
+#logo {
+    font-family: Verdana;
+    color: rgb(12, 9, 170);
+    font-weight: bolder;
+    font-size: 25px;
+    word-spacing: 1px;
+    letter-spacing: 3px;
+}
+
+.page-home {
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+
+.g {
+    display: flex;
+    justify-content: center;
+}
